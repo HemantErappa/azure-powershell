@@ -52,7 +52,7 @@ DotNetFrameworkVersion = '4.7.2'
 # ProcessorArchitecture = ''
 
 # Modules that must be imported into the global environment prior to importing this module
-RequiredModules = @(@{ModuleName = 'Az.Accounts'; ModuleVersion = '1.10.0'; }, 
+RequiredModules = @(@{ModuleName = 'Az.Accounts'; ModuleVersion = '1.9.1'; }, 
                @{ModuleName = 'Az.Advisor'; RequiredVersion = '1.1.1'; }, 
                @{ModuleName = 'Az.Aks'; RequiredVersion = '1.1.3'; }, 
                @{ModuleName = 'Az.AnalysisServices'; RequiredVersion = '1.1.4'; }, 
